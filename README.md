@@ -6,5 +6,6 @@ Don’t get sucked in, or try and escape the map.
 The pup likes dog biscuits, keep him fed to earn points on your score!
 
 https://ldjam.com/events/ludum-dare/42/adventures-of-spacepup
+https://bayliss35.itch.io/spacepup
 
 ![Space Pup Title Screen](https://static.jam.vg/raw/3bd/41/z/16990.jpg)
